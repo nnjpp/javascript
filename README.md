@@ -80,7 +80,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-## References
+## References (ES6 Only)
 
   - Use `const` for all of your references; avoid using `var`.
 
