@@ -1254,7 +1254,7 @@
     ```javascript
     // bad
     function() {
-    ∙∙∙∙const name;
+    ∙∙const name;
     }
 
     // bad
@@ -1264,7 +1264,7 @@
 
     // good
     function() {
-    ∙∙const name;
+    ∙∙∙∙const name;
     }
     ```
 
